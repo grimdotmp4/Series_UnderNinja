@@ -440,6 +440,22 @@
         ]
       }
     },
+    "20": {
+      "title": "Cats & Lizards",
+      "volume": "",
+      "last_updated": "1756304372",
+      "groups": {
+        "Nerf Deidara Translations": [
+          "https://files.catbox.moe/z410d7.png",
+          "https://files.catbox.moe/0uijkc.png",
+          "https://files.catbox.moe/e5cyz2.png",
+          "https://files.catbox.moe/d08lsb.png",
+          "https://files.catbox.moe/953aoj.png",
+          "https://files.catbox.moe/x7nvey.png",
+          "https://files.catbox.moe/bo68ox.png"
+        ]
+      }
+    },
     "0.5": {
       "title": "",
       "volume": "",
@@ -513,6 +529,26 @@
       "groups": {
         "Nerf Deidara Translations": [
           "https://files.catbox.moe/d1t35h.png"
+        ]
+      }
+    },
+    "20.5": {
+      "title": "Bakeneko Column: Lizard Hunting",
+      "volume": "",
+      "last_updated": "1756304464",
+      "groups": {
+        "Nerf Deidara Translations": [
+          "https://files.catbox.moe/dujvyp.png"
+        ]
+      }
+    },
+    "20.6": {
+      "title": "Bakeneko Column: Bits and Pieces About Kamakura Station",
+      "volume": "",
+      "last_updated": "1756304507",
+      "groups": {
+        "Nerf Deidara Translations": [
+          "https://files.catbox.moe/7cdbw1.png"
         ]
       }
     }
