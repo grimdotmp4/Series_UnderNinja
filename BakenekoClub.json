@@ -571,6 +571,28 @@
         ]
       }
     },
+    "27": {
+      "title": "Cats & Sea Hares",
+      "volume": "",
+      "last_updated": "1767739143",
+      "groups": {
+        "Nerf Deidara Translations": [
+          "https://files.catbox.moe/7qadxr.png",
+          "https://files.catbox.moe/ib4lby.png",
+          "https://files.catbox.moe/hddx3i.png",
+          "https://files.catbox.moe/tdozlk.png",
+          "https://files.catbox.moe/o7w8lo.png",
+          "https://files.catbox.moe/9z51ff.png",
+          "https://files.catbox.moe/r541f2.png",
+          "https://files.catbox.moe/a6xvtu.png",
+          "https://files.catbox.moe/kgiwcs.png",
+          "https://files.catbox.moe/9xm09s.png",
+          "https://files.catbox.moe/mcn9k4.png",
+          "https://files.catbox.moe/j0c9ez.png",
+          "https://files.catbox.moe/djmm39.png"
+        ]
+      }
+    },
     "0.5": {
       "title": "",
       "volume": "",
@@ -686,6 +708,26 @@
         "Nerf Deidara Translations": [
           "https://files.catbox.moe/txakp0.png",
           "https://files.catbox.moe/15f4sh.png"
+        ]
+      }
+    },
+    "27.5": {
+      "title": "Bakeneko Column: Big Waves of Inamuragasaki",
+      "volume": "",
+      "last_updated": "1767739211",
+      "groups": {
+        "Nerf Deidara Translations": [
+          "https://files.catbox.moe/2imclr.png"
+        ]
+      }
+    },
+    "27.6": {
+      "title": "Bakeneko Column: Shonan Monorail",
+      "volume": "",
+      "last_updated": "1767739282",
+      "groups": {
+        "Nerf Deidara Translations": [
+          "https://files.catbox.moe/56726y.png"
         ]
       }
     }
